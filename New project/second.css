@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke
+}
+.login{
+    width: auto;
+    margin-top: 60px;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.span1{
+    font-size: 45px;
+}
+legend{
+    font-size: 30px;
+}
+fieldset{
+    background-color: rgb(216, 81, 81);
+}
