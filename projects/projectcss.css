@@ -1,0 +1,64 @@
+nav{
+    padding-bottom: 0;
+    background-color: whitesmoke;
+    height: 80px;
+    width: 100%;
+}
+.secondhead{
+    height: 50px;
+    align-content: left;
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+    position: relative;
+    
+}
+.logoimage{
+    float: left;
+    position: absolute;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+.logo{
+    width: 50px;
+    height: 30px;
+    padding-left: 35px;
+}
+ul{
+    list-style-type: none;
+}
+div{
+    text-align: center;
+}
+.welcomediv{
+    font-size: 15px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    color: white;
+    height: 30px;
+    padding: 0 0 0 0;
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(mainstore.jpg);
+}
+
+.first-table{
+    display: none;
+    background-color: whitesmoke;
+    height: 300px;
+    width: 500px;
+    margin-top: 10px;
+}
+li{
+    float: left;
+    padding-right: 35px;
+}
+
+
+
+

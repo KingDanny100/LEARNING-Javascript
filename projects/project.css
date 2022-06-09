@@ -1,0 +1,21 @@
+.first-table{
+    display: none;
+}
+.men:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.men:hover .first-table{
+    display: block;
+    position: absolute;
+    
+}
+table{
+    border-right: 1px;
+    font-weight: lighter;
+    font-size: small;
+    width: auto;
+}
+.men, .women{
+    display: inline-block;
+}
